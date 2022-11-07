@@ -5,6 +5,8 @@
 .dart_tool/
 .packages
 build/
+firebase/
+lib/access_info/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
