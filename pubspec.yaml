@@ -45,7 +45,7 @@ dependencies:
   flutter_native_splash: ^2.2.9
   package_info_plus: ^3.0.1
 
-  firebase_core: ^2.1.1
+  firebase_core: ^2.4.0
   firebase_auth: ^4.1.1
   cloud_firestore: ^4.0.4
 
